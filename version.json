@@ -1,6 +1,6 @@
 {
-  "versionCode": 29,
-  "versionName": "3.8",
+  "versionCode": 30,
+  "versionName": "3.9",
   "apkUrl": "https://raw.githubusercontent.com/qrjuanma-jet/tulingo-releases/main/TuLingo.apk",
-  "releaseNotes": "Novedades de TuLingo v3.8:\n• Periodo de prueba gratuito de 3 días para nuevos usuarios sin interrupciones.\n• Sistema de activación exclusivo mediante archivos peticion.tulingo y activacion.tulingo.\n• Detección y activación automática al instante en móvil y Google TV."
+  "releaseNotes": "Novedades de TuLingo v3.9:\n• Reproducción automática continua en Mis Canales: al terminar un vídeo se reproduce automáticamente el siguiente vídeo del canal sin cortes y de forma ininterrumpida.\n• Detección ultra-rápida de fin de vídeo con activación automática de subtítulos en cada vídeo sucesivo.\n• Soporte total en móvil y Google TV con mando a distancia."
 }
