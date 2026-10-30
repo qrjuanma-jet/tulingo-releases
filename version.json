@@ -1,6 +1,6 @@
 {
-  "versionCode": 28,
-  "versionName": "3.7",
+  "versionCode": 29,
+  "versionName": "3.8",
   "apkUrl": "https://raw.githubusercontent.com/qrjuanma-jet/tulingo-releases/main/TuLingo.apk",
-  "releaseNotes": "Novedades de TuLingo v3.7:\n• Sistema de actualizaciones automáticas Over-The-Air (OTA) integrado.\n• Descarga e instalación directa de nuevas versiones con barra de progreso.\n• Rendimiento óptimo y máxima fluidez en móvil y Google TV."
+  "releaseNotes": "Novedades de TuLingo v3.8:\n• Periodo de prueba gratuito de 3 días para nuevos usuarios sin interrupciones.\n• Sistema de activación exclusivo mediante archivos peticion.tulingo y activacion.tulingo.\n• Detección y activación automática al instante en móvil y Google TV."
 }
