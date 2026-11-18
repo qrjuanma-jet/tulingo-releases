@@ -1,6 +1,6 @@
 {
-  "versionCode": 34,
-  "versionName": "4.3",
+  "versionCode": 35,
+  "versionName": "4.4",
   "apkUrl": "https://raw.githubusercontent.com/qrjuanma-jet/tulingo-releases/main/TuLingo.apk",
-  "releaseNotes": "Novedades de TuLingo v4.3 (Hotfix Subtítulos Estables):\n• 💬 Estabilización total de subtítulos: eliminado el parpadeo y la alternancia intermitente de subtítulos en el vídeo y en el botón CC de TuLingo.\n• 🛡️ Detección inteligente de silencios: el estado de subtítulos activos se mantiene firme sin apagarse ni reiniciarse entre frases o pausas del hablante.\n• 🎯 Activación atómica segura: eliminados los bucles de reintentos agresivos y conmutaciones no deseadas en el reproductor de YouTube."
+  "releaseNotes": "Novedades de TuLingo v4.4 (Aislamiento y Reproducción Continua por Idioma):\n• 🌍 Aislamiento estricto de canales por idioma: al cambiar entre idiomas (ej. Francés a Inglés), la cola de vídeos y el canal activo se limpian y reconfiguran automáticamente al idioma seleccionado.\n• 📺 Reproducción continua garantizada: ver vídeos en un idioma nunca volverá a saltar a canales de otro idioma diferente.\n• 🔄 Memoria del último canal sintonizado independiente para cada idioma."
 }
