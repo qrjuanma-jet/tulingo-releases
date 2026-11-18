@@ -1,6 +1,6 @@
 {
-  "versionCode": 33,
-  "versionName": "4.2",
+  "versionCode": 34,
+  "versionName": "4.3",
   "apkUrl": "https://raw.githubusercontent.com/qrjuanma-jet/tulingo-releases/main/TuLingo.apk",
-  "releaseNotes": "Novedades de TuLingo v4.2:\n• 📺 TuLingo 100% gratuito en Google TV: activación ilimitada de serie sin periodos de prueba ni pantallas de licencia en televisores.\n• 🎬 Selección directa del reproductor de YouTube en Google TV: pulsa Flecha Izquierda o selecciona el área del vídeo con el mando para abrir los controles nativos (engranaje ⚙️, subtítulos CC y barra de tiempo) y navegar con el D-pad.\n• 💬 Restauración y activación reforzada del botón CC de TuLingo: activación multinivel con auto-traducción, fallback a pistas disponibles y atajo universal 'c'.\n• 🐢 Botón directo de velocidad ajustado a 0.8x (óptimo para estudio).\n• 📱 Activación exclusiva para móviles mediante peticion.tulingo y activacion.tulingo con TuLingo Master v1.3."
+  "releaseNotes": "Novedades de TuLingo v4.3 (Hotfix Subtítulos Estables):\n• 💬 Estabilización total de subtítulos: eliminado el parpadeo y la alternancia intermitente de subtítulos en el vídeo y en el botón CC de TuLingo.\n• 🛡️ Detección inteligente de silencios: el estado de subtítulos activos se mantiene firme sin apagarse ni reiniciarse entre frases o pausas del hablante.\n• 🎯 Activación atómica segura: eliminados los bucles de reintentos agresivos y conmutaciones no deseadas en el reproductor de YouTube."
 }
