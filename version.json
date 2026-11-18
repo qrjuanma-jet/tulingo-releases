@@ -1,6 +1,6 @@
 {
-  "versionCode": 32,
-  "versionName": "4.1",
+  "versionCode": 33,
+  "versionName": "4.2",
   "apkUrl": "https://raw.githubusercontent.com/qrjuanma-jet/tulingo-releases/main/TuLingo.apk",
-  "releaseNotes": "Novedades de TuLingo v4.1:\n• 📘 Dossieres de Gramática y Pronunciación ampliados desde A1 hasta C1 para todos los idiomas (🇬🇧 Inglés, 🇩🇪 Alemán, 🇫🇷 Francés, 🇮🇹 Italiano, 🇷🇺 Ruso, 🇨🇳 Chino): nuevo filtro interactivo por niveles (A1-A2 Básico, B1-B2 Intermedio, C1 Avanzado) y exportación a PDF vectorial en la carpeta Descargas.\n• 🇨🇳 Corrección de subtítulos en Chino y multidioma: detección precisa de todas las variantes de pistas (zh-Hans, zh-Hant, etc.) y forzado automático al idioma de estudio, con auto-traducción si el vídeo carece de CC nativo.\n• 🎯 Traducción contextual con acepciones: al pulsar una palabra en los subtítulos se muestra primero el significado exacto según el contexto de la frase y a continuación el resto de acepciones del diccionario.\n• 📱 Mantiene reproducción en modo apaisado automático y compatibilidad total con Google TV con mando a distancia."
+  "releaseNotes": "Novedades de TuLingo v4.2:\n• 📺 TuLingo 100% gratuito en Google TV: activación ilimitada de serie sin periodos de prueba ni pantallas de licencia en televisores.\n• 🎬 Selección directa del reproductor de YouTube en Google TV: pulsa Flecha Izquierda o selecciona el área del vídeo con el mando para abrir los controles nativos (engranaje ⚙️, subtítulos CC y barra de tiempo) y navegar con el D-pad.\n• 💬 Restauración y activación reforzada del botón CC de TuLingo: activación multinivel con auto-traducción, fallback a pistas disponibles y atajo universal 'c'.\n• 🐢 Botón directo de velocidad ajustado a 0.8x (óptimo para estudio).\n• 📱 Activación exclusiva para móviles mediante peticion.tulingo y activacion.tulingo con TuLingo Master v1.3."
 }
