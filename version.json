@@ -1,6 +1,6 @@
 {
-  "versionCode": 36,
-  "versionName": "4.5",
+  "versionCode": 37,
+  "versionName": "4.6",
   "apkUrl": "https://raw.githubusercontent.com/qrjuanma-jet/tulingo-releases/main/TuLingo.apk",
-  "releaseNotes": "Novedades de TuLingo v4.5 (Navegación Unificada TV, Memoria de Canal y Compartir por Wi-Fi):\n• 🎯 Sistema de navegación espacial unificado en Google TV: sin modos duales ni carteles molestos; arranca directamente en los subtítulos CC, flecha izquierda navega por YouTube y el borde derecho vuelve fluidamente a los botones de TuLingo.\n• 🇬🇧/🇫🇷 Botón directo de bandera de idioma: pulsa para alternar el idioma activo y reproducir al instante el siguiente vídeo del canal de ese idioma.\n• 📺 Memoria de canal y vídeo: recuerda el último canal y último vídeo visto por cada idioma y continúa reproduciendo el siguiente de la lista.\n• 💬 Subtítulos CC reforzados y persistentes: sincronización precisa en el idioma seleccionado sin desajustes al alternar idiomas o canales.\n• ⚡ Splash de inicio DUDEPARK.COM durante 1 segundo al arrancar en Google TV.\n• 📲 Compartir APK por Wi-Fi: descarga e instala TuLingo fácilmente en cualquier móvil de la misma red Wi-Fi mediante código QR y servidor local integrado."
+  "releaseNotes": "Novedades de TuLingo v4.6 (Subtítulos en Caracteres Chinos en Tiempo Real):\n• 🇨🇳 Subtítulos en caracteres chinos (汉字) automáticos: si un vídeo no tiene subtítulos en chino o sólo están en inglés, TuLingo los traduce al vuelo al chino con Google Translate y los muestra en pantalla en caracteres chinos grandes y legibles, con el texto de referencia debajo.\n• 🀄 Segmentación y aprendizaje de palabras en chino: el cuaderno de vocabulario y el selector de palabras ahora reconocen caracteres chinos (Hanzi) y palabras compuestas para aprender su significado en español y su pronunciación Pinyin.\n• ⚡ Traducción de alta velocidad en segundo plano con caché en memoria sin retardos ni cortes."
 }
