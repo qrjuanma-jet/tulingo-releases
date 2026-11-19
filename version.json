@@ -1,6 +1,6 @@
 {
-  "versionCode": 37,
-  "versionName": "4.6",
+  "versionCode": 38,
+  "versionName": "4.7",
   "apkUrl": "https://raw.githubusercontent.com/qrjuanma-jet/tulingo-releases/main/TuLingo.apk",
-  "releaseNotes": "Novedades de TuLingo v4.6 (Subtítulos en Caracteres Chinos en Tiempo Real):\n• 🇨🇳 Subtítulos en caracteres chinos (汉字) automáticos: si un vídeo no tiene subtítulos en chino o sólo están en inglés, TuLingo los traduce al vuelo al chino con Google Translate y los muestra en pantalla en caracteres chinos grandes y legibles, con el texto de referencia debajo.\n• 🀄 Segmentación y aprendizaje de palabras en chino: el cuaderno de vocabulario y el selector de palabras ahora reconocen caracteres chinos (Hanzi) y palabras compuestas para aprender su significado en español y su pronunciación Pinyin.\n• ⚡ Traducción de alta velocidad en segundo plano con caché en memoria sin retardos ni cortes."
+  "releaseNotes": "Novedades de TuLingo v4.7 (Traducción Universal de Subtítulos en Tiempo Real):\n• 🌍 Subtítulos en tiempo real para TODOS los idiomas: Si un vídeo no dispone de subtítulos nativos en el idioma seleccionado (francés, alemán, italiano, portugués, ruso, chino, etc.) y sólo ofrece subtítulos en inglés, TuLingo los traduce automáticamente al instante al idioma activo.\n• 📺 Visualización bilingüe de alto contraste: El texto en el idioma seleccionado aparece en tamaño grande (26px) con el texto original en inglés como referencia, integrándose a la perfección con el selector de palabras y vocabulario.\n• ⚡ Detección inteligente de pistas: Si el vídeo ya cuenta con subtítulos nativos en el idioma meta, se reproducen directamente de forma limpia."
 }
