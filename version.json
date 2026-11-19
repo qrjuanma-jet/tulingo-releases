@@ -1,6 +1,6 @@
 {
-  "versionCode": 35,
-  "versionName": "4.4",
+  "versionCode": 36,
+  "versionName": "4.5",
   "apkUrl": "https://raw.githubusercontent.com/qrjuanma-jet/tulingo-releases/main/TuLingo.apk",
-  "releaseNotes": "Novedades de TuLingo v4.4 (Aislamiento y Reproducción Continua por Idioma):\n• 🌍 Aislamiento estricto de canales por idioma: al cambiar entre idiomas (ej. Francés a Inglés), la cola de vídeos y el canal activo se limpian y reconfiguran automáticamente al idioma seleccionado.\n• 📺 Reproducción continua garantizada: ver vídeos en un idioma nunca volverá a saltar a canales de otro idioma diferente.\n• 🔄 Memoria del último canal sintonizado independiente para cada idioma."
+  "releaseNotes": "Novedades de TuLingo v4.5 (Navegación Unificada TV, Memoria de Canal y Compartir por Wi-Fi):\n• 🎯 Sistema de navegación espacial unificado en Google TV: sin modos duales ni carteles molestos; arranca directamente en los subtítulos CC, flecha izquierda navega por YouTube y el borde derecho vuelve fluidamente a los botones de TuLingo.\n• 🇬🇧/🇫🇷 Botón directo de bandera de idioma: pulsa para alternar el idioma activo y reproducir al instante el siguiente vídeo del canal de ese idioma.\n• 📺 Memoria de canal y vídeo: recuerda el último canal y último vídeo visto por cada idioma y continúa reproduciendo el siguiente de la lista.\n• 💬 Subtítulos CC reforzados y persistentes: sincronización precisa en el idioma seleccionado sin desajustes al alternar idiomas o canales.\n• ⚡ Splash de inicio DUDEPARK.COM durante 1 segundo al arrancar en Google TV.\n• 📲 Compartir APK por Wi-Fi: descarga e instala TuLingo fácilmente en cualquier móvil de la misma red Wi-Fi mediante código QR y servidor local integrado."
 }
