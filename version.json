@@ -1,6 +1,6 @@
 {
-  "versionCode": 39,
-  "versionName": "4.8",
+  "versionCode": 40,
+  "versionName": "4.9",
   "apkUrl": "https://raw.githubusercontent.com/qrjuanma-jet/tulingo-releases/main/TuLingo.apk",
-  "releaseNotes": "Novedades de TuLingo v4.8 (Subtítulos Automáticos Transparentes y Limpieza de Pantalla):\n• 💬 Subtítulos automáticos y transparentes: TuLingo comprueba continuamente si los subtítulos están visibles en pantalla para el vídeo en reproducción (incluso al pasar de un vídeo a otro) y los activa de forma inmediata y transparente sin que tengas que pulsar nada.\n• 📺 Pantalla más limpia: Se elimina el botón flotante CC de la pantalla principal. La preferencia de subtítulos ahora se configura en el menú de Configuración ⚙️ (activada por defecto).\n• 🎯 Navegación simplificada: El botón principal de TuLingo (Aprender palabras) es el foco por defecto tanto al inicio como al interactuar con el mando en Google TV.\n• ⚡ Detección precisa de pistas: Verificación constante de la disponibilidad de subtítulos sin falsos positivos ni bloqueos de intentos."
+  "releaseNotes": "Novedades de TuLingo v4.9 (Selector de Idiomas con Flechas Anterior y Siguiente):\n• 🌐 Controles de idioma mejorados: En lugar de un solo botón, ahora dispones de la bandera central acompañada a su izquierda y derecha de botones triangulares (◀ y ▶) para cambiar al idioma anterior o siguiente de forma directa.\n• 📺 Navegación espacial D-pad en Google TV: Puedes desplazarte con el mando entre el triángulo izquierdo, la bandera central y el triángulo derecho con las flechas izquierda y derecha, y subir o bajar con total fluidez.\n• 🎬 Reproducción sincronizada: Al cambiar de idioma hacia atrás o hacia adelante, TuLingo reproduce al instante el siguiente vídeo del canal guardado en ese idioma."
 }
