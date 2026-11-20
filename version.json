@@ -1,6 +1,6 @@
 {
-  "versionCode": 44,
-  "versionName": "5.3",
+  "versionCode": 45,
+  "versionName": "5.4",
   "apkUrl": "https://raw.githubusercontent.com/qrjuanma-jet/tulingo-releases/main/TuLingo.apk",
-  "releaseNotes": "Novedades de TuLingo v5.3:\n• 🎙️ Escuchar y Repetir: Nueva función en la pantalla de aprender palabras que te permite grabar tu pronunciación con el micrófono (del móvil o del mando de Google TV) y compararla al instante con la pronunciación original nativa.\n• 🔄 Botón de Comparación: Escucha la frase original y justo a continuación tu propia voz para perfeccionar el acento y la dicción tantas veces como quieras.\n• 🎯 Corrección definitiva de subtítulos durmientes: Eliminada la falsa detección si el reproductor marcaba CC activo pero no pintaba texto. Se reactivan y sincronizan automáticamente desde el primer segundo sin necesidad de cambiar de idioma.\n• ⚡ Detección síncrona en Aprender Palabras y navegación con flechas de frases."
+  "releaseNotes": "Novedades de TuLingo v5.4:\n• 🎬 Audio real del vídeo en Comparar: Eliminada por completo la síntesis de voz. Ahora el botón 'Comparar' reproduce el fragmento de audio real y original del propio vídeo (de segundo a segundo exacto de la frase) y a continuación tu grabación de voz.\n• 🎙️ Escuchar y Repetir mejorado: Si pulsas 'Comparar' antes de grabar, reproduce el fragmento del vídeo para que lo escuches y te invita a grabar.\n• ⏱️ Medición precisa de inicio y fin de frase en vídeo con sincronización automática."
 }
