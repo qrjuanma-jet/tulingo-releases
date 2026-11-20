@@ -1,6 +1,6 @@
 {
-  "versionCode": 45,
-  "versionName": "5.4",
+  "versionCode": 46,
+  "versionName": "5.5",
   "apkUrl": "https://raw.githubusercontent.com/qrjuanma-jet/tulingo-releases/main/TuLingo.apk",
-  "releaseNotes": "Novedades de TuLingo v5.4:\n• 🎬 Audio real del vídeo en Comparar: Eliminada por completo la síntesis de voz. Ahora el botón 'Comparar' reproduce el fragmento de audio real y original del propio vídeo (de segundo a segundo exacto de la frase) y a continuación tu grabación de voz.\n• 🎙️ Escuchar y Repetir mejorado: Si pulsas 'Comparar' antes de grabar, reproduce el fragmento del vídeo para que lo escuches y te invita a grabar.\n• ⏱️ Medición precisa de inicio y fin de frase en vídeo con sincronización automática."
+  "releaseNotes": "Novedades de TuLingo v5.5:\n• 🛡️ Estabilidad total en subtítulos: Eliminado por completo el observador de mutaciones y el bucle de reconexión que causaba parpadeos intermitentes en los subtítulos y bloqueaba el botón CC de YouTube.\n• 🎯 Activación limpia y sin conflictos: Los subtítulos se activan de forma estable y ya no se apagan ni reinician durante las pausas de voz o música del vídeo.\n• 🇫🇷 Corrección en orden de idiomas: Francés se sitúa inmediatamente tras el Inglés (Inglés ➔ Francés ➔ Alemán ➔ Italiano ➔ Ruso ➔ Chino).\n• 🌐 Selector directo de idiomas: Al pulsar la bandera se abre un menú rápido con todos los idiomas disponibles, además de incorporar protección anti-rebote en los triángulos."
 }
