@@ -1,6 +1,6 @@
 {
-  "versionCode": 41,
-  "versionName": "5.0",
+  "versionCode": 42,
+  "versionName": "5.1",
   "apkUrl": "https://raw.githubusercontent.com/qrjuanma-jet/tulingo-releases/main/TuLingo.apk",
-  "releaseNotes": "Novedades de TuLingo v5.0 (Activación Automática Infalible de Subtítulos en Móvil y TV):\n• 💬 Activación nativa garantizada en móviles: Se resolvió el falso positivo donde YouTube reportaba una pista interna por defecto aunque los subtítulos estuvieran apagados, bloqueando su activación automática.\n• 📱 Detección y pulsación automática del botón CC en YouTube Mobile: TuLingo despierta automáticamente los controles superpuestos del reproductor de YouTube móvil y pulsa el botón nativo de subtítulos en milisegundos sin requerir interacción manual del usuario.\n• ⚡ Persistencia de subtítulos activos: Se configuran las preferencias de almacenamiento persistente ('yt-player-subtitles-on') para que YouTube mantenga los subtítulos activados entre vídeos consecutivos de forma transparente."
+  "releaseNotes": "Novedades de TuLingo v5.1 (Pulsación Nativa Inmediata de Subtítulos):\n• 👆 Despertado de controles táctiles: Se simula de forma exacta el toque físico que realiza el usuario sobre la superficie del reproductor de vídeo para desplegar la barra de controles móviles al arrancar la reproducción.\n• 🎯 Detección reactiva en tiempo real (MutationObserver): En el mismo milisegundo en que YouTube despliega el botón nativo CC en pantalla, TuLingo lo pulsa automáticamente sin requerir puntería manual.\n• 🚫 Eliminación definitiva de falsos positivos: Retiradas las comprobaciones engañosas de textTracks que bloqueaban la pulsación del botón nativo CC."
 }
