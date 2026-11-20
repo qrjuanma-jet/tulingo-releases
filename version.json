@@ -1,6 +1,6 @@
 {
-  "versionCode": 38,
-  "versionName": "4.7",
+  "versionCode": 39,
+  "versionName": "4.8",
   "apkUrl": "https://raw.githubusercontent.com/qrjuanma-jet/tulingo-releases/main/TuLingo.apk",
-  "releaseNotes": "Novedades de TuLingo v4.7 (Traducción Universal de Subtítulos en Tiempo Real):\n• 🌍 Subtítulos en tiempo real para TODOS los idiomas: Si un vídeo no dispone de subtítulos nativos en el idioma seleccionado (francés, alemán, italiano, portugués, ruso, chino, etc.) y sólo ofrece subtítulos en inglés, TuLingo los traduce automáticamente al instante al idioma activo.\n• 📺 Visualización bilingüe de alto contraste: El texto en el idioma seleccionado aparece en tamaño grande (26px) con el texto original en inglés como referencia, integrándose a la perfección con el selector de palabras y vocabulario.\n• ⚡ Detección inteligente de pistas: Si el vídeo ya cuenta con subtítulos nativos en el idioma meta, se reproducen directamente de forma limpia."
+  "releaseNotes": "Novedades de TuLingo v4.8 (Subtítulos Automáticos Transparentes y Limpieza de Pantalla):\n• 💬 Subtítulos automáticos y transparentes: TuLingo comprueba continuamente si los subtítulos están visibles en pantalla para el vídeo en reproducción (incluso al pasar de un vídeo a otro) y los activa de forma inmediata y transparente sin que tengas que pulsar nada.\n• 📺 Pantalla más limpia: Se elimina el botón flotante CC de la pantalla principal. La preferencia de subtítulos ahora se configura en el menú de Configuración ⚙️ (activada por defecto).\n• 🎯 Navegación simplificada: El botón principal de TuLingo (Aprender palabras) es el foco por defecto tanto al inicio como al interactuar con el mando en Google TV.\n• ⚡ Detección precisa de pistas: Verificación constante de la disponibilidad de subtítulos sin falsos positivos ni bloqueos de intentos."
 }
