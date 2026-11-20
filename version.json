@@ -1,6 +1,6 @@
 {
-  "versionCode": 50,
-  "versionName": "5.9",
+  "versionCode": 51,
+  "versionName": "6.0",
   "apkUrl": "https://raw.githubusercontent.com/qrjuanma-jet/tulingo-releases/main/TuLingo.apk",
-  "releaseNotes": "Novedades de TuLingo v5.9:\n• 🎬 Subtítulo Único Unificado: Eliminado el recuadro duplicado de subtítulos en el móvil (ocultados los subtítulos nativos del DOM para disfrutar exclusivamente del elegante overlay nativo de TuLingo con borde verde, alto contraste y pulsable para aprender palabras).\n• 🇫🇷 Carga Automática Inmediata en Francés: Solucionado el problema por el cual el primer vídeo en francés requería desactivar y reactivar subtítulos manualmente; ahora la pista en francés (o traducción inteligente en tiempo real) se aplica de forma totalmente automática desde el primer segundo de reproducción.\n• ⚡ Detección y Reintento Resiliente de Pistas: El reproductor espera activamente la carga completa del catálogo de subtítulos de YouTube sin cancelaciones prematuras."
+  "releaseNotes": "Novedades de TuLingo v6.0:\n• 🔇 Eliminación automática del símbolo de altavoz tachado (\"Activar sonido\"): Ocultado y descartado automáticamente el molesto botón nativo de YouTube en la esquina superior izquierda al iniciar vídeos.\n• 🔊 Garantía de audio activo: Desmuteo proactivo del reproductor web de YouTube para que el vídeo suene siempre limpio y sin símbolos flotantes.\n• 🎬 Subtítulo único optimizado y persistencia de pistas en todos los idiomas."
 }
