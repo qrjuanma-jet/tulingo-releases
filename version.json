@@ -1,6 +1,6 @@
 {
-  "versionCode": 49,
-  "versionName": "5.8",
+  "versionCode": 50,
+  "versionName": "5.9",
   "apkUrl": "https://raw.githubusercontent.com/qrjuanma-jet/tulingo-releases/main/TuLingo.apk",
-  "releaseNotes": "Novedades de TuLingo v5.8:\n• 📺 Subtítulos Nativos y Traducidos en Google TV: Solucionado definitivamente el problema de visualización en Google TV en pantalla completa con overlay nativo de alto contraste.\n• 🇫🇷 Subtítulos en Francés y Fallback Inteligente: Detección y traducción en tiempo real a francés y otros idiomas cuando el vídeo solo tiene subtítulos en inglés o automáticos.\n• 🎯 Eliminación de Intermitencia y Parpadeo del botón CC: Optimización del puente de subtítulos para evitar activaciones redundantes y errores en el reproductor de YouTube.\n• ⚡ Captura Inmediata de Palabras: El botón de aprender palabras captura al instante la frase en pantalla sin reactivaciones innecesarias.\n• 🔀 Cambio Fluido de Idioma: Navegación de idioma protegida contra saltos accidentales de teclas en mando a distancia."
+  "releaseNotes": "Novedades de TuLingo v5.9:\n• 🎬 Subtítulo Único Unificado: Eliminado el recuadro duplicado de subtítulos en el móvil (ocultados los subtítulos nativos del DOM para disfrutar exclusivamente del elegante overlay nativo de TuLingo con borde verde, alto contraste y pulsable para aprender palabras).\n• 🇫🇷 Carga Automática Inmediata en Francés: Solucionado el problema por el cual el primer vídeo en francés requería desactivar y reactivar subtítulos manualmente; ahora la pista en francés (o traducción inteligente en tiempo real) se aplica de forma totalmente automática desde el primer segundo de reproducción.\n• ⚡ Detección y Reintento Resiliente de Pistas: El reproductor espera activamente la carga completa del catálogo de subtítulos de YouTube sin cancelaciones prematuras."
 }
