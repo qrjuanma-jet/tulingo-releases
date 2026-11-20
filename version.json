@@ -1,6 +1,6 @@
 {
-  "versionCode": 40,
-  "versionName": "4.9",
+  "versionCode": 41,
+  "versionName": "5.0",
   "apkUrl": "https://raw.githubusercontent.com/qrjuanma-jet/tulingo-releases/main/TuLingo.apk",
-  "releaseNotes": "Novedades de TuLingo v4.9 (Selector de Idiomas con Flechas Anterior y Siguiente):\n• 🌐 Controles de idioma mejorados: En lugar de un solo botón, ahora dispones de la bandera central acompañada a su izquierda y derecha de botones triangulares (◀ y ▶) para cambiar al idioma anterior o siguiente de forma directa.\n• 📺 Navegación espacial D-pad en Google TV: Puedes desplazarte con el mando entre el triángulo izquierdo, la bandera central y el triángulo derecho con las flechas izquierda y derecha, y subir o bajar con total fluidez.\n• 🎬 Reproducción sincronizada: Al cambiar de idioma hacia atrás o hacia adelante, TuLingo reproduce al instante el siguiente vídeo del canal guardado en ese idioma."
+  "releaseNotes": "Novedades de TuLingo v5.0 (Activación Automática Infalible de Subtítulos en Móvil y TV):\n• 💬 Activación nativa garantizada en móviles: Se resolvió el falso positivo donde YouTube reportaba una pista interna por defecto aunque los subtítulos estuvieran apagados, bloqueando su activación automática.\n• 📱 Detección y pulsación automática del botón CC en YouTube Mobile: TuLingo despierta automáticamente los controles superpuestos del reproductor de YouTube móvil y pulsa el botón nativo de subtítulos en milisegundos sin requerir interacción manual del usuario.\n• ⚡ Persistencia de subtítulos activos: Se configuran las preferencias de almacenamiento persistente ('yt-player-subtitles-on') para que YouTube mantenga los subtítulos activados entre vídeos consecutivos de forma transparente."
 }
