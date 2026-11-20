@@ -1,6 +1,6 @@
 {
-  "versionCode": 42,
-  "versionName": "5.1",
+  "versionCode": 43,
+  "versionName": "5.2",
   "apkUrl": "https://raw.githubusercontent.com/qrjuanma-jet/tulingo-releases/main/TuLingo.apk",
-  "releaseNotes": "Novedades de TuLingo v5.1 (Pulsación Nativa Inmediata de Subtítulos):\n• 👆 Despertado de controles táctiles: Se simula de forma exacta el toque físico que realiza el usuario sobre la superficie del reproductor de vídeo para desplegar la barra de controles móviles al arrancar la reproducción.\n• 🎯 Detección reactiva en tiempo real (MutationObserver): En el mismo milisegundo en que YouTube despliega el botón nativo CC en pantalla, TuLingo lo pulsa automáticamente sin requerir puntería manual.\n• 🚫 Eliminación definitiva de falsos positivos: Retiradas las comprobaciones engañosas de textTracks que bloqueaban la pulsación del botón nativo CC."
+  "releaseNotes": "Novedades de TuLingo v5.2:\n• 🎬 Corrección en visualización de subtítulos: Solucionado el conflicto donde los subtítulos en inglés se limpiaban en vez de mostrarse en el contenedor de TuLingo al arrancar los vídeos.\n• ⚡ Forzado instantáneo de pistas de subtítulos: Activación transparente y persistente de subtítulos sin necesidad de alternar de idioma.\n• 🐢 Control y bloqueo de velocidad 0.8X: Soporte blindado para velocidad 0.8x sobre el reproductor de vídeo con retención continua ante reajustes automáticos de YouTube y retroalimentación visual (0.8X ✓)."
 }
