@@ -1,6 +1,6 @@
 {
-  "versionCode": 56,
-  "versionName": "6.5",
+  "versionCode": 57,
+  "versionName": "6.6",
   "apkUrl": "https://raw.githubusercontent.com/qrjuanma-jet/tulingo-releases/main/TuLingo.apk",
-  "releaseNotes": "Novedades de TuLingo v6.5:\n• 💬 Activación automática y fiable de subtítulos: TuLingo activa automáticamente por sí mismo los subtítulos en todos los idiomas (inglés, francés, alemán, italiano, ruso, chino, etc.) al reproducir cualquier vídeo.\n• 🎯 Solución al botón nativo [CC] de YouTube: Corregido el funcionamiento del botón [CC] tanto en pantalla táctil como con el mando de Google TV, eliminando conflictos de doble clic y sincronizando directamente con la API del reproductor de YouTube para activar o desactivar pistas al instante."
+  "releaseNotes": "Novedades de TuLingo v6.6:\n• 📺 Subtítulos limpios sin duplicados: En Google TV y móvil se muestran exclusivamente los subtítulos nativos de YouTube. Se ha eliminado la tarjeta de borde verde flúor cuando los subtítulos ya están disponibles de forma nativa en el reproductor (manteniéndola únicamente para traducciones en tiempo real como chino).\n• 🎯 Solución definitiva en 'Aprender Palabras': Añadido botón directo '✕ Salir' en la cabecera y '✕ Volver al Vídeo' en el pie. Al pulsar Cancelar o el botón Atrás del mando a distancia se cierra el diálogo de inmediato sin bloqueos ni salidas forzadas, reanudando la reproducción y devolviendo el foco del mando directamente al vídeo de YouTube."
 }
