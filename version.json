@@ -1,6 +1,6 @@
 {
-  "versionCode": 57,
-  "versionName": "6.6",
+  "versionCode": 58,
+  "versionName": "6.7",
   "apkUrl": "https://raw.githubusercontent.com/qrjuanma-jet/tulingo-releases/main/TuLingo.apk",
-  "releaseNotes": "Novedades de TuLingo v6.6:\n• 📺 Subtítulos limpios sin duplicados: En Google TV y móvil se muestran exclusivamente los subtítulos nativos de YouTube. Se ha eliminado la tarjeta de borde verde flúor cuando los subtítulos ya están disponibles de forma nativa en el reproductor (manteniéndola únicamente para traducciones en tiempo real como chino).\n• 🎯 Solución definitiva en 'Aprender Palabras': Añadido botón directo '✕ Salir' en la cabecera y '✕ Volver al Vídeo' en el pie. Al pulsar Cancelar o el botón Atrás del mando a distancia se cierra el diálogo de inmediato sin bloqueos ni salidas forzadas, reanudando la reproducción y devolviendo el foco del mando directamente al vídeo de YouTube."
+  "releaseNotes": "Novedades de TuLingo v6.7:\n• 🎙️ Práctica de pronunciación pausando la frase: Al pulsar el botón de grabación en la pantalla principal, el vídeo se pausa automáticamente en la frase actual para poder pronunciarla en silencio y grabarla sin interrupciones. A continuación, el botón '🔄' permite comparar el fragmento original de audio con tu pronunciación grabada.\n• ⏯️ Botón Play / Pausa agrandado: Rediseñado el botón central de Play y Pausa con mayor tamaño (54x46 dp), icono más grande y zona táctil más cómoda y destacada."
 }
