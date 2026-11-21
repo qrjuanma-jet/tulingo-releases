@@ -1,6 +1,6 @@
 {
-  "versionCode": 54,
-  "versionName": "6.3",
+  "versionCode": 55,
+  "versionName": "6.4",
   "apkUrl": "https://raw.githubusercontent.com/qrjuanma-jet/tulingo-releases/main/TuLingo.apk",
-  "releaseNotes": "Novedades de TuLingo v6.3:\n• 🎙️ Grabación y comparación de pronunciación: Botones en la pantalla principal para grabar tu audio y compararlo con el original del vídeo de YouTube.\n• ⏻ Botón de apagado / forzar detención: Botón ⏻ abajo a la derecha en pantalla principal y en ajustes para reiniciar o cerrar el proceso limpiamente.\n• 📺 Solución a bloqueos en Google TV: Corregido el problema al salir o cancelar en 'Aprender palabras' que impedía volver al vídeo.\n• ⚙️ Nuevo orden en ajustes: Selector de idioma arriba del todo, seguido del dossier de gramática y vocabulario; canales recomendados integrados directamente en Mis Canales; botón '▶ Ver Vídeo' y eliminación del interruptor de subtítulos.\n• 📤 Compartir APK nativo: Compartir directamente mediante el selector de Android (WhatsApp, Telegram, etc.).\n• 🦉 Icono actualizado en Google TV: Logotipo moderno del búho visible en Ajustes > Aplicaciones de Google TV."
+  "releaseNotes": "Novedades de TuLingo v6.4:\n• ⚡ Icono de apagado rediseñado: Sustituido el emoji genérico por un icono vectorial físico IEC 60417-5009 de alta definición en color blanco sobre botón circular carmesí radiante, tanto en la barra flotante como en la cabecera y pie de Ajustes.\n• 🎯 Solución a 'no se está reproduciendo ningún vídeo': Corregida la detección de vídeo y subtítulos en el móvil. Al pulsar el botón de aprender palabras o los controles de pronunciación, la app ya no redirige ni muestra errores de vídeo, capturando la frase actual o activando los subtítulos de inmediato sin interrumpir la reproducción."
 }
