@@ -1,6 +1,6 @@
 {
-  "versionCode": 51,
-  "versionName": "6.0",
+  "versionCode": 52,
+  "versionName": "6.1",
   "apkUrl": "https://raw.githubusercontent.com/qrjuanma-jet/tulingo-releases/main/TuLingo.apk",
-  "releaseNotes": "Novedades de TuLingo v6.0:\n• 🔇 Eliminación automática del símbolo de altavoz tachado (\"Activar sonido\"): Ocultado y descartado automáticamente el molesto botón nativo de YouTube en la esquina superior izquierda al iniciar vídeos.\n• 🔊 Garantía de audio activo: Desmuteo proactivo del reproductor web de YouTube para que el vídeo suene siempre limpio y sin símbolos flotantes.\n• 🎬 Subtítulo único optimizado y persistencia de pistas en todos los idiomas."
+  "releaseNotes": "Novedades de TuLingo v6.1:\n• 🎯 Foco inicial en botón [CC] para Google TV: Todos los vídeos inician automáticamente con el recuadro verde del mando situado directamente sobre el botón de subtítulos [CC] de YouTube para activarlos o desactivarlos con un solo clic de OK.\n• 🛑 Desactivación de la gestión automática de subtítulos: Eliminada la manipulación automática de pistas en segundo plano para evitar fallos y bloqueos.\n• 👁️ Subtítulos nativos de YouTube visibles y nítidos: Al pulsar [CC], los subtítulos de YouTube se muestran directamente en pantalla sin solapamientos.\n• 📚 Aprendizaje de palabras sincronizado: El botón de la mascota captura fielmente las frases de los subtítulos nativos activos."
 }
