@@ -1,6 +1,6 @@
 {
-  "versionCode": 53,
-  "versionName": "6.2",
+  "versionCode": 54,
+  "versionName": "6.3",
   "apkUrl": "https://raw.githubusercontent.com/qrjuanma-jet/tulingo-releases/main/TuLingo.apk",
-  "releaseNotes": "Novedades de TuLingo v6.2:\n• 🇨🇳 Subtítulos de chino garantizados sí o sí: En chino, TuLingo activa automáticamente los subtítulos en inglés de YouTube y los traduce en tiempo real a caracteres chinos, mostrándolos directamente en pantalla en el móvil tanto para visualización continua como para captura con la mascota.\n• 🌐 Resto de idiomas intactos: Mantiene el foco nativo en botón [CC] para Google TV y la visualización de subtítulos nativos en el resto de lenguas sin interferencias."
+  "releaseNotes": "Novedades de TuLingo v6.3:\n• 🎙️ Grabación y comparación de pronunciación: Botones en la pantalla principal para grabar tu audio y compararlo con el original del vídeo de YouTube.\n• ⏻ Botón de apagado / forzar detención: Botón ⏻ abajo a la derecha en pantalla principal y en ajustes para reiniciar o cerrar el proceso limpiamente.\n• 📺 Solución a bloqueos en Google TV: Corregido el problema al salir o cancelar en 'Aprender palabras' que impedía volver al vídeo.\n• ⚙️ Nuevo orden en ajustes: Selector de idioma arriba del todo, seguido del dossier de gramática y vocabulario; canales recomendados integrados directamente en Mis Canales; botón '▶ Ver Vídeo' y eliminación del interruptor de subtítulos.\n• 📤 Compartir APK nativo: Compartir directamente mediante el selector de Android (WhatsApp, Telegram, etc.).\n• 🦉 Icono actualizado en Google TV: Logotipo moderno del búho visible en Ajustes > Aplicaciones de Google TV."
 }
