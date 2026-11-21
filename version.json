@@ -1,6 +1,6 @@
 {
-  "versionCode": 55,
-  "versionName": "6.4",
+  "versionCode": 56,
+  "versionName": "6.5",
   "apkUrl": "https://raw.githubusercontent.com/qrjuanma-jet/tulingo-releases/main/TuLingo.apk",
-  "releaseNotes": "Novedades de TuLingo v6.4:\n• ⚡ Icono de apagado rediseñado: Sustituido el emoji genérico por un icono vectorial físico IEC 60417-5009 de alta definición en color blanco sobre botón circular carmesí radiante, tanto en la barra flotante como en la cabecera y pie de Ajustes.\n• 🎯 Solución a 'no se está reproduciendo ningún vídeo': Corregida la detección de vídeo y subtítulos en el móvil. Al pulsar el botón de aprender palabras o los controles de pronunciación, la app ya no redirige ni muestra errores de vídeo, capturando la frase actual o activando los subtítulos de inmediato sin interrumpir la reproducción."
+  "releaseNotes": "Novedades de TuLingo v6.5:\n• 💬 Activación automática y fiable de subtítulos: TuLingo activa automáticamente por sí mismo los subtítulos en todos los idiomas (inglés, francés, alemán, italiano, ruso, chino, etc.) al reproducir cualquier vídeo.\n• 🎯 Solución al botón nativo [CC] de YouTube: Corregido el funcionamiento del botón [CC] tanto en pantalla táctil como con el mando de Google TV, eliminando conflictos de doble clic y sincronizando directamente con la API del reproductor de YouTube para activar o desactivar pistas al instante."
 }
