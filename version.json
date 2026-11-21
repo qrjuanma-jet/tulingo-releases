@@ -1,6 +1,6 @@
 {
-  "versionCode": 52,
-  "versionName": "6.1",
+  "versionCode": 53,
+  "versionName": "6.2",
   "apkUrl": "https://raw.githubusercontent.com/qrjuanma-jet/tulingo-releases/main/TuLingo.apk",
-  "releaseNotes": "Novedades de TuLingo v6.1:\n• 🎯 Foco inicial en botón [CC] para Google TV: Todos los vídeos inician automáticamente con el recuadro verde del mando situado directamente sobre el botón de subtítulos [CC] de YouTube para activarlos o desactivarlos con un solo clic de OK.\n• 🛑 Desactivación de la gestión automática de subtítulos: Eliminada la manipulación automática de pistas en segundo plano para evitar fallos y bloqueos.\n• 👁️ Subtítulos nativos de YouTube visibles y nítidos: Al pulsar [CC], los subtítulos de YouTube se muestran directamente en pantalla sin solapamientos.\n• 📚 Aprendizaje de palabras sincronizado: El botón de la mascota captura fielmente las frases de los subtítulos nativos activos."
+  "releaseNotes": "Novedades de TuLingo v6.2:\n• 🇨🇳 Subtítulos de chino garantizados sí o sí: En chino, TuLingo activa automáticamente los subtítulos en inglés de YouTube y los traduce en tiempo real a caracteres chinos, mostrándolos directamente en pantalla en el móvil tanto para visualización continua como para captura con la mascota.\n• 🌐 Resto de idiomas intactos: Mantiene el foco nativo en botón [CC] para Google TV y la visualización de subtítulos nativos en el resto de lenguas sin interferencias."
 }
