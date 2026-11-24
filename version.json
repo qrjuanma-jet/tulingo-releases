@@ -1,6 +1,6 @@
 {
-  "versionCode": 59,
-  "versionName": "6.8",
+  "versionCode": 60,
+  "versionName": "6.9",
   "apkUrl": "https://raw.githubusercontent.com/qrjuanma-jet/tulingo-releases/main/TuLingo.apk",
-  "releaseNotes": "Novedades de TuLingo v6.8:\n• ⏱️ Selector de velocidad completo en pantalla: Incorporada fila de control con triángulos izquierdo/derecho y botón central para cambiar la velocidad de forma rápida o abrir el selector con todas las opciones (0.5x, 0.75x, 0.8x TuLingo, 0.9x, 1.0x, 1.25x, 1.5x).\n• 🚀 Sincronización y persistencia de velocidad en YouTube: Corrección integral para evitar que el reproductor de YouTube restablezca la velocidad a 1.0x. La velocidad seleccionada se mantiene activa y se reaplica automáticamente entre vídeos."
+  "releaseNotes": "Novedades de TuLingo v6.9:\n• 🔊 Botón de altavoz verde para reproducir solo la frase actual: Añadido botón verde con altavoz (🔊) justo antes del micrófono tanto en la barra principal de controles como en el diálogo de Aprender Palabras. Permite escuchar de forma aislada e instantánea el fragmento de audio original del vídeo correspondiente a la frase actual de los subtítulos sin alterar la reproducción general."
 }
