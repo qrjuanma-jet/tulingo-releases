@@ -1,6 +1,6 @@
 {
-  "versionCode": 58,
-  "versionName": "6.7",
+  "versionCode": 59,
+  "versionName": "6.8",
   "apkUrl": "https://raw.githubusercontent.com/qrjuanma-jet/tulingo-releases/main/TuLingo.apk",
-  "releaseNotes": "Novedades de TuLingo v6.7:\n• 🎙️ Práctica de pronunciación pausando la frase: Al pulsar el botón de grabación en la pantalla principal, el vídeo se pausa automáticamente en la frase actual para poder pronunciarla en silencio y grabarla sin interrupciones. A continuación, el botón '🔄' permite comparar el fragmento original de audio con tu pronunciación grabada.\n• ⏯️ Botón Play / Pausa agrandado: Rediseñado el botón central de Play y Pausa con mayor tamaño (54x46 dp), icono más grande y zona táctil más cómoda y destacada."
+  "releaseNotes": "Novedades de TuLingo v6.8:\n• ⏱️ Selector de velocidad completo en pantalla: Incorporada fila de control con triángulos izquierdo/derecho y botón central para cambiar la velocidad de forma rápida o abrir el selector con todas las opciones (0.5x, 0.75x, 0.8x TuLingo, 0.9x, 1.0x, 1.25x, 1.5x).\n• 🚀 Sincronización y persistencia de velocidad en YouTube: Corrección integral para evitar que el reproductor de YouTube restablezca la velocidad a 1.0x. La velocidad seleccionada se mantiene activa y se reaplica automáticamente entre vídeos."
 }
