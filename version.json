@@ -1,6 +1,6 @@
 {
-  "versionCode": 61,
-  "versionName": "6.10",
+  "versionCode": 62,
+  "versionName": "6.11",
   "apkUrl": "https://raw.githubusercontent.com/qrjuanma-jet/tulingo-releases/main/TuLingo.apk",
-  "releaseNotes": "Novedades de TuLingo v6.10:\n• 🔊 Reproducción íntegra de la frase de subtítulos: El botón de altavoz verde sincroniza con el timestamp exacto de inicio de la frase y reproduce la frase completa en pantalla sin cortes prematuros, con duración natural tanto en controles principales como en Aprender Palabras y Comparar pronunciación."
+  "releaseNotes": "Novedades de TuLingo v6.11:\n• 🔊 Duración y sincronización exacta de la frase de subtítulos: El altavoz verde reproduce de forma exacta la frase actual en pantalla desde el momento en que aparece hasta el momento exacto en que se va de la pantalla (usando la marca de fin de la frase y el inicio de la siguiente). Incorpora detección en tiempo real para detener la reproducción en el instante en que la frase sale de pantalla, evitando invadir o reproducir frases posteriores."
 }
