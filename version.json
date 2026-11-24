@@ -1,6 +1,6 @@
 {
-  "versionCode": 62,
-  "versionName": "6.11",
+  "versionCode": 63,
+  "versionName": "6.12",
   "apkUrl": "https://raw.githubusercontent.com/qrjuanma-jet/tulingo-releases/main/TuLingo.apk",
-  "releaseNotes": "Novedades de TuLingo v6.11:\n• 🔊 Duración y sincronización exacta de la frase de subtítulos: El altavoz verde reproduce de forma exacta la frase actual en pantalla desde el momento en que aparece hasta el momento exacto en que se va de la pantalla (usando la marca de fin de la frase y el inicio de la siguiente). Incorpora detección en tiempo real para detener la reproducción en el instante en que la frase sale de pantalla, evitando invadir o reproducir frases posteriores."
+  "releaseNotes": "Novedades de TuLingo v6.12:\n• 🔊 Soporte íntegro para subtítulos multilínea: Eliminado el límite artificial previo y añadida detección inteligente por palabras clave de toda la frase. El altavoz reproduce con exactitud la frase completa en pantalla sin cortar subtítulos largos o de varias líneas, deteniéndose en el momento exacto en que la frase sale de pantalla o se detecta la frase siguiente."
 }
