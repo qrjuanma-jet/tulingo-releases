@@ -1,6 +1,6 @@
 {
-  "versionCode": 60,
-  "versionName": "6.9",
+  "versionCode": 61,
+  "versionName": "6.10",
   "apkUrl": "https://raw.githubusercontent.com/qrjuanma-jet/tulingo-releases/main/TuLingo.apk",
-  "releaseNotes": "Novedades de TuLingo v6.9:\n• 🔊 Botón de altavoz verde para reproducir solo la frase actual: Añadido botón verde con altavoz (🔊) justo antes del micrófono tanto en la barra principal de controles como en el diálogo de Aprender Palabras. Permite escuchar de forma aislada e instantánea el fragmento de audio original del vídeo correspondiente a la frase actual de los subtítulos sin alterar la reproducción general."
+  "releaseNotes": "Novedades de TuLingo v6.10:\n• 🔊 Reproducción íntegra de la frase de subtítulos: El botón de altavoz verde sincroniza con el timestamp exacto de inicio de la frase y reproduce la frase completa en pantalla sin cortes prematuros, con duración natural tanto en controles principales como en Aprender Palabras y Comparar pronunciación."
 }
