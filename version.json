@@ -1,6 +1,6 @@
 {
-  "versionCode": 63,
-  "versionName": "6.12",
+  "versionCode": 64,
+  "versionName": "6.13",
   "apkUrl": "https://raw.githubusercontent.com/qrjuanma-jet/tulingo-releases/main/TuLingo.apk",
-  "releaseNotes": "Novedades de TuLingo v6.12:\n• 🔊 Soporte íntegro para subtítulos multilínea: Eliminado el límite artificial previo y añadida detección inteligente por palabras clave de toda la frase. El altavoz reproduce con exactitud la frase completa en pantalla sin cortar subtítulos largos o de varias líneas, deteniéndose en el momento exacto en que la frase sale de pantalla o se detecta la frase siguiente."
+  "releaseNotes": "Novedades de TuLingo v6.13:\n• 🧹 Botón de escoba en pantalla: Permite al usuario limpiar y hacer desaparecer al instante los controles nativos de YouTube que permanecen bloqueando la pantalla o los subtítulos en Google TV.\n• ▶️ Corrección de bucle en 'Siguiente vídeo del canal': Solucionado el problema que causaba que se reprodujera repetidamente el mismo vídeo de la lista. Detección deduplicada de vídeos, historial inteligente de vídeos vistos para evitar repeticiones y salto automático al siguiente canal si la lista actual se agota."
 }
